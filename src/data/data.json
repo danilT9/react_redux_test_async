@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "city": "Rome",
+    "country": "Italy",
+    "category": "Europe",
+    "price": 450,
+    "duration": 5,
+    "rating": 4.8,
+    "status": "visited"
+  },
+  {
+    "id": 2,
+    "city": "Paris",
+    "country": "France",
+    "category": "Europe",
+    "price": 620,
+    "duration": 6,
+    "rating": 4.9,
+    "status": "wishlist"
+  },
+  {
+    "id": 3,
+    "city": "Barcelona",
+    "country": "Spain",
+    "category": "Europe",
+    "price": 520,
+    "duration": 5,
+    "rating": 4.7,
+    "status": "planned"
+  },
+  {
+    "id": 4,
+    "city": "London",
+    "country": "United Kingdom",
+    "category": "Europe",
+    "price": 780,
+    "duration": 7,
+    "rating": 4.8,
+    "status": "wishlist"
+  },
+  {
+    "id": 5,
+    "city": "Prague",
+    "country": "Czech Republic",
+    "category": "Europe",
+    "price": 380,
+    "duration": 4,
+    "rating": 4.6,
+    "status": "visited"
+  },
+  {
+    "id": 6,
+    "city": "Vienna",
+    "country": "Austria",
+    "category": "Europe",
+    "price": 490,
+    "duration": 5,
+    "rating": 4.7,
+    "status": "planned"
+  },
+  {
+    "id": 7,
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "category": "Europe",
+    "price": 690,
+    "duration": 6,
+    "rating": 4.9,
+    "status": "wishlist"
+  },
+  {
+    "id": 8,
+    "city": "Lisbon",
+    "country": "Portugal",
+    "category": "Europe",
+    "price": 550,
+    "duration": 6,
+    "rating": 4.8,
+    "status": "wishlist"
+  },
+  {
+    "id": 9,
+    "city": "Athens",
+    "country": "Greece",
+    "category": "Europe",
+    "price": 470,
+    "duration": 5,
+    "rating": 4.6,
+    "status": "visited"
+  },
+  {
+    "id": 10,
+    "city": "Budapest",
+    "country": "Hungary",
+    "category": "Europe",
+    "price": 340,
+    "duration": 4,
+    "rating": 4.5,
+    "status": "planned"
+  },
+
+  {
+    "id": 11,
+    "city": "New York",
+    "country": "USA",
+    "category": "North America",
+    "price": 1200,
+    "duration": 8,
+    "rating": 4.9,
+    "status": "wishlist"
+  },
+  {
+    "id": 12,
+    "city": "Los Angeles",
+    "country": "USA",
+    "category": "North America",
+    "price": 1350,
+    "duration": 9,
+    "rating": 4.7,
+    "status": "wishlist"
+  },
+  {
+    "id": 13,
+    "city": "Toronto",
+    "country": "Canada",
+    "category": "North America",
+    "price": 1100,
+    "duration": 7,
+    "rating": 4.6,
+    "status": "planned"
+  },
+  {
+    "id": 14,
+    "city": "Vancouver",
+    "country": "Canada",
+    "category": "North America",
+    "price": 1280,
+    "duration": 8,
+    "rating": 4.8,
+    "status": "wishlist"
+  },
+  {
+    "id": 15,
+    "city": "Cancun",
+    "country": "Mexico",
+    "category": "North America",
+    "price": 980,
+    "duration": 7,
+    "rating": 4.9,
+    "status": "visited"
+  },
+  {
+    "id": 16,
+    "city": "Havana",
+    "country": "Cuba",
+    "category": "North America",
+    "price": 890,
+    "duration": 7,
+    "rating": 4.5,
+    "status": "wishlist"
+  },
+  {
+    "id": 17,
+    "city": "Tokyo",
+    "country": "Japan",
+    "category": "Asia",
+    "price": 1450,
+    "duration": 10,
+    "rating": 5.0,
+    "status": "wishlist"
+  },
+  {
+    "id": 18,
+    "city": "Kyoto",
+    "country": "Japan",
+    "category": "Asia",
+    "price": 1380,
+    "duration": 9,
+    "rating": 4.9,
+    "status": "planned"
+  },
+  {
+    "id": 19,
+    "city": "Seoul",
+    "country": "South Korea",
+    "category": "Asia",
+    "price": 1250,
+    "duration": 8,
+    "rating": 4.8,
+    "status": "wishlist"
+  },
+  {
+    "id": 20,
+    "city": "Bangkok",
+    "country": "Thailand",
+    "category": "Asia",
+    "price": 920,
+    "duration": 8,
+    "rating": 4.7,
+    "status": "visited"
+  },
+  {
+    "id": 21,
+    "city": "Singapore",
+    "country": "Singapore",
+    "category": "Asia",
+    "price": 1320,
+    "duration": 7,
+    "rating": 4.8,
+    "status": "wishlist"
+  },
+  {
+    "id": 22,
+    "city": "Bali",
+    "country": "Indonesia",
+    "category": "Asia",
+    "price": 1050,
+    "duration": 10,
+    "rating": 4.9,
+    "status": "planned"
+  },
+  {
+    "id": 23,
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "category": "Asia",
+    "price": 870,
+    "duration": 6,
+    "rating": 4.6,
+    "status": "visited"
+  },
+  {
+    "id": 24,
+    "city": "Istanbul",
+    "country": "Turkey",
+    "category": "Asia",
+    "price": 430,
+    "duration": 5,
+    "rating": 4.7,
+    "status": "planned"
+  },
+
+  {
+    "id": 25,
+    "city": "Cape Town",
+    "country": "South Africa",
+    "category": "Africa",
+    "price": 1150,
+    "duration": 9,
+    "rating": 4.9,
+    "status": "wishlist"
+  },
+  {
+    "id": 26,
+    "city": "Marrakech",
+    "country": "Morocco",
+    "category": "Africa",
+    "price": 650,
+    "duration": 6,
+    "rating": 4.7,
+    "status": "planned"
+  },
+  {
+    "id": 27,
+    "city": "Cairo",
+    "country": "Egypt",
+    "category": "Africa",
+    "price": 580,
+    "duration": 6,
+    "rating": 4.5,
+    "status": "visited"
+  },
+  {
+    "id": 28,
+    "city": "Nairobi",
+    "country": "Kenya",
+    "category": "Africa",
+    "price": 1050,
+    "duration": 8,
+    "rating": 4.8,
+    "status": "wishlist"
+  },
+  {
+    "id": 29,
+    "city": "Zanzibar",
+    "country": "Tanzania",
+    "category": "Africa",
+    "price": 980,
+    "duration": 9,
+    "rating": 4.9,
+    "status": "wishlist"
+  },
+
+  {
+    "id": 30,
+    "city": "Sydney",
+    "country": "Australia",
+    "category": "Oceania",
+    "price": 1600,
+    "duration": 12,
+    "rating": 4.9,
+    "status": "wishlist"
+  },
+  {
+    "id": 31,
+    "city": "Melbourne",
+    "country": "Australia",
+    "category": "Oceania",
+    "price": 1550,
+    "duration": 11,
+    "rating": 4.8,
+    "status": "planned"
+  },
+  {
+    "id": 32,
+    "city": "Auckland",
+    "country": "New Zealand",
+    "category": "Oceania",
+    "price": 1700,
+    "duration": 12,
+    "rating": 4.9,
+    "status": "wishlist"
+  },
+
+  {
+    "id": 33,
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "category": "South America",
+    "price": 1100,
+    "duration": 9,
+    "rating": 4.8,
+    "status": "wishlist"
+  },
+  {
+    "id": 34,
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "category": "South America",
+    "price": 1080,
+    "duration": 8,
+    "rating": 4.7,
+    "status": "planned"
+  },
+  {
+    "id": 35,
+    "city": "Lima",
+    "country": "Peru",
+    "category": "South America",
+    "price": 1020,
+    "duration": 8,
+    "rating": 4.6,
+    "status": "wishlist"
+  },
+  {
+    "id": 36,
+    "city": "Santiago",
+    "country": "Chile",
+    "category": "South America",
+    "price": 1150,
+    "duration": 9,
+    "rating": 4.8,
+    "status": "visited"
+  },
+  {
+    "id": 37,
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "category": "Europe",
+    "price": 920,
+    "duration": 6,
+    "rating": 4.9,
+    "status": "wishlist"
+  },
+  {
+    "id": 38,
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "category": "Europe",
+    "price": 730,
+    "duration": 5,
+    "rating": 4.8,
+    "status": "planned"
+  },
+  {
+    "id": 39,
+    "city": "Oslo",
+    "country": "Norway",
+    "category": "Europe",
+    "price": 810,
+    "duration": 5,
+    "rating": 4.7,
+    "status": "wishlist"
+  },
+  {
+    "id": 40,
+    "city": "Zurich",
+    "country": "Switzerland",
+    "category": "Europe",
+    "price": 950,
+    "duration": 5,
+    "rating": 4.9,
+    "status": "visited"
+  }
+]
